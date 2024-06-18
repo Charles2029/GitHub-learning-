@@ -55,3 +55,17 @@ _Showcase_ your projects and contributions.
 ~~Express~~ your identity and show the GitHub community who you are.
 the algorithm of frontend
 https://github.com/course-dasheng/fe-algorithm
+
+开源软件许可证有多种类型,主要包括以下几种:
+
+MIT许可证(MIT License)
+Apache许可证(Apache License)
+GNU通用公共许可证(GNU General Public License, GPL)
+BSD许可证(Berkeley Software Distribution License)
+Mozilla公共许可证(Mozilla Public License, MPL)
+Eclipse公共许可证(Eclipse Public License, EPL)
+Creative Commons许可证(Creative Commons Licenses)
+MIT-Facebook专利许可证(MIT-Facebook Patent License)
+ISC许可证(ISC License)
+Unlicense
+这些许可证在开放性、商业使用限制、专利授权等方面存在一些差异。开发者在选择开源许可证时,需要根据自己的需求和项目特点来权衡选择。不同类型的许可证适用于不同的场景。

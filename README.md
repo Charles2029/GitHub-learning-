@@ -69,3 +69,4 @@ MIT-Facebook专利许可证(MIT-Facebook Patent License)
 ISC许可证(ISC License)
 Unlicense
 这些许可证在开放性、商业使用限制、专利授权等方面存在一些差异。开发者在选择开源许可证时,需要根据自己的需求和项目特点来权衡选择。不同类型的许可证适用于不同的场景。
+[Apple](https://www.apple.com/hk/)

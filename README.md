@@ -2,6 +2,17 @@
 
 ## About GitHub
 
+<p align="center">
+    <a href="https://v3.vuejs.org/"><img src="https://img.shields.io/badge/vue-v3.2.31-blue.svg?color=4FC08D&logo=vuedotjs" alt="vue" /></a>
+    <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/typescript-v4.6.2-blue.svg?color=3178C6&logo=typescript" alt="typescript" /></a>
+    <a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/vite-v2.8.6-blue.svg?color=646CFF&logo=vite&logoColor=646CFF" alt="vite" /></a>
+    <a href="https://router.vuejs.org/index.html"><img src="https://img.shields.io/badge/vue--router-v4.0.13-blue.svg?color=3EAF7C" alt="vue-router" /></a>
+    <a href="https://pinia.vuejs.org/"><img src="https://img.shields.io/badge/pinia-v2.0.11-yellow.svg?color=FFD859" alt="pinia" /></a>
+    <a href="https://element-plus.gitee.io/en-US/"><img src="https://img.shields.io/badge/element--plus-v2.0.2-blue.svg?color=409EFF" alt="element-plus" /></a>
+    <a href="http://en.sass.hk/"><img src="https://img.shields.io/badge/sass-v1.49.9-blue.svg?color=CC6699&logo=sass" alt="sass" /></a>
+    <img src="https://img.shields.io/badge/version-v1.0.0-yellow.svg" alt="version" />
+    <img src="https://img.shields.io/badge/license-AGPL--3.0-green.svg" alt="license" />
+</p>
 ![alt text](image.png)
 Show case and share 
 Track and manage

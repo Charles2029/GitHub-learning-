@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/license-AGPL--3.0-green.svg" alt="license" />
 </p>
 ![alt text](image.png)
-Show case and share 
+:sparkle:Show case and share 
 Track and manage
 let others review
 Collaborate

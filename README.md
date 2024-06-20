@@ -1,4 +1,4 @@
-## How to learn git hub(https://docs.github.com/en/get-started)
+## [How to learn git hub](https://docs.github.com/en/get-started)
 ## [GitHub glossary](https://docs.github.com/en/get-started/learning-about-github/github-glossary)
 ## About GitHub
 

@@ -30,6 +30,8 @@ There are plenty of Git-related actions that you can complete on GitHub directly
 // creating a Git repository, creating branches, and uploading and editing files.
 Once you start to collaborate with others and all need to work on the same repository at the same time, you’ll continually:
 
+provision
+
 
 Push back your own changes to the same remote repository on GitHub.
 --*Pull*-- all the latest changes made by your collaborators from the remote repository on Github.
@@ -91,7 +93,7 @@ example：[portfolio：](https://github.com/soumyajit4419/Portfolio)
 
 
 
-
+To see how GitHub compares to GitLab, Bitbucket, and Jenkins, see Comparing GitHub to other DevOps solutions.
 
 
 

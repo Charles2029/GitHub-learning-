@@ -113,7 +113,11 @@ A **fork** is a personal *copy* of another user's repository that lives on your 
 
 ## [git commands](https://git-scm.com/docs)
 
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
+<div color=646CFF&logo=vite&logoColor=646CFF"; padding: 20px;">
+Notice this content 
+</div>
 
 
 

@@ -126,7 +126,8 @@ Typing ? on GitHub brings up a dialog box that lists the keyboard shortcuts avai
 Typing ? on GitHub to find the keyboard shortcut.
 
 
-
+## [GitHub Command Palette](https://docs.github.com/en/get-started/accessibility/github-command-palette)
+> this is a important part of the GitHub
 
 
 

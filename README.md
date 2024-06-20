@@ -106,7 +106,8 @@ A deploy key is an SSH key that is stored on your server and grants access to a 
 
 ```<h1>Hello World</h1>```
 
-
+### fork
+A **fork** is a personal *copy* of another user's repository that lives on your account. Forks allow you to freely make changes to a project without affecting the original upstream repository. You can ~also~ open a pull request in the upstream repository and keep your fork synced with the lates changes since both repositories are still connnected.
 
 
 

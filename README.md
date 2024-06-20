@@ -120,7 +120,10 @@ Notice this content
 </div>
 
 
+## [Keyboard shortcuts](Keyboard shortcuts)
 
+Typing ? on GitHub brings up a dialog box that lists the keyboard shortcuts available for that page. You can use these keyboard shortcuts to perform actions across the site without using your mouse to navigate.
+Typing ? on GitHub to find the keyboard shortcut.
 
 
 

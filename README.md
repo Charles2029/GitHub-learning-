@@ -99,6 +99,9 @@ To see how GitHub compares to GitLab, Bitbucket, and Jenkins, see Comparing GitH
 some interesting [theme](https://github.com/bep?tab=overview&from=2010-12-01&to=2010-12-31)
 another :https://github.com/ssddanbrown
 
+## ~deploy key~
+A deploy key is an SSH key that is stored on your server and grants access to a single Github repository. This key is attached directly to the repository instead of to a personal user account.
+
 
 
 

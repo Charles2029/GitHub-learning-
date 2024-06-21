@@ -149,3 +149,4 @@ We've added some custom fuctionality to create GitHub Flavored Markdown, used to
 <!--this is very import message-->
 
  this is a code`hello`
+This is red  `#FF0000` this is orange `#FFA500`

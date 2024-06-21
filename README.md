@@ -173,5 +173,6 @@ Note: GitHub automatically creates links when valid URLs are written in a commen
 When you use two or more headings, Github automatically generates a table of contents that you can access by clicking within the file header.Each heading title is listed in the table of 
 contnets and you can click a title to navigate to the selected section.
 
-
+Notice you can use `R` and `...`to quote something 
+>Note: When viewing a conversation, you can automatically quote text in a comment by highlighting the text, then typing R. You can quote an entire comment by clicking , then Quote reply. For more information about keyboard shortcuts, see "Keyboard shortcuts."
 

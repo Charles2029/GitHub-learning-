@@ -150,3 +150,10 @@ We've added some custom fuctionality to create GitHub Flavored Markdown, used to
 
  this is a code`hello`
 This is red  `#FF0000` this is orange `#FFA500`
+
+Notes:
+
+A suppoted color model cannot have any leading or trailing spaces within the backticks.
+The visualization of the color is only supported in issues, pull requests, and discussions.
+
+

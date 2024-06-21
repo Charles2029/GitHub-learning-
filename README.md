@@ -176,3 +176,8 @@ contnets and you can click a title to navigate to the selected section.
 Notice you can use `R` and `...`to quote something 
 >Note: When viewing a conversation, you can automatically quote text in a comment by highlighting the text, then typing R. You can quote an entire comment by clicking , then Quote reply. For more information about keyboard shortcuts, see "Keyboard shortcuts."
 
+<img width="795" alt="image" src="https://github.com/Charles2029/GitHub-learning-/assets/111632432/aff3ea3d-3fdc-434b-8cb9-520fb8440eab">
+this is a qutoe 
+>Notes:
+A supported color model cannot have any leading or trailing spaces within the backticks.
+The visualization of the color is only supported in issues, pull requests, and [discussions.](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)

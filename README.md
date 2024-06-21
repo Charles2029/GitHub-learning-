@@ -170,4 +170,8 @@ Screenshot of rendered GitHub Markdown showing how text within brackets, "GitHub
 
 Note: GitHub automatically creates links when valid URLs are written in a comment. For more information, see "Autolinked references and URLs."
 
+When you use two or more headings, Github automatically generates a table of contents that you can access by clicking within the file header.Each heading title is listed in the table of 
+contnets and you can click a title to navigate to the selected section.
+
+
 

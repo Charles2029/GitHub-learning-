@@ -1,7 +1,6 @@
 ## [How to learn git hub](https://docs.github.com/en/get-started)
 ## [GitHub glossary](https://docs.github.com/en/get-started/learning-about-github/github-glossary)
 ## About GitHub
-
 <p align="center">
     <a href="https://v3.vuejs.org/"><img src="https://img.shields.io/badge/vue-v3.2.31-blue.svg?color=4FC08D&logo=vuedotjs" alt="vue" /></a>
     <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/typescript-v4.6.2-blue.svg?color=3178C6&logo=typescript" alt="typescript" /></a>

@@ -138,4 +138,12 @@ Typing ? on GitHub to find the keyboard shortcut.
 https://github.com/Charles2029/skills-communicate-using-markdown
     
 
+<img width="767" alt="image" src="https://github.com/Charles2029/GitHub-learning-/assets/111632432/68563f80-da24-4abc-bfc3-73d1eb80cbe8">
 
+
+## [About writing and formatting on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github)
+
+---
+>We've added some custom functionality to create GitHub Flavored Markdown, used to format prose and code across our site.
+We've added some custom fuctionality to create GitHub Flavored Markdown, used to format prose and code across our site.
+<!--this is very import message-->

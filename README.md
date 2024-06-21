@@ -128,6 +128,7 @@ Typing ? on GitHub to find the keyboard shortcut.
 ## [GitHub Command Palette](https://docs.github.com/en/get-started/accessibility/github-command-palette)
 > this is a important part of the GitHub
 
+## [Quickstart for writing on GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
 
 
 

@@ -297,3 +297,35 @@ You can also use code blocks to create diagrams in Markdown. GitHub supports Mer
 
 
 [Creating diagrams](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams)
+
+## [ About creating diagrams](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams)
+
+~diagram~  rendring is available in GitHub Issues, Github Discussions, pull requests, wikis, and Markdown files.
+```mermaid
+graph TD;
+sz-->hk;
+sz-->gz;
+hk-->zh;
+gz-->zh;
+```
+
+Here is a simple flow chart:
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
+
+
+
+
+
+
+
+
+
+

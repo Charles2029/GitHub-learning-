@@ -278,5 +278,13 @@ You can add an image or a code block, too.
 
 </details>
 
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
 
+```javascript
+console.log("come to learn Github")
+```
  

@@ -18,8 +18,7 @@ Track and manage
 let others review
 Collaborate
 
-## About Git
-
+## [About Git](https://docs.github.com/en/get-started/using-git/about-git)
 https://docs.github.com/en/get-started/using-git/about-git
 Git and Github are different thing .
 Git will automatically start to track and manage your changes.

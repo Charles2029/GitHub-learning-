@@ -38,8 +38,8 @@ When you created a new branch in the previous step, GitHub brought you to the co
 
 // On Github, saved changes are called commits. Each commit has an associated commit message, which is a description 
 explaining why a particular change was made. Commit messages capture the history of your changes so that other contributors can understand what you've done and why.
-git markdown syntax
-https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+[git markdown syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+)
 
 **This is a bold **
 
@@ -51,7 +51,7 @@ a *pull request*  may introduce changes to code that conflict with the existing 
 **Share** your interests and skills.
 _Showcase_ your projects and contributions.
 ~~Express~~ your identity and show the GitHub community who you are.
-the algorithm of frontend
+[the algorithm of frontend](https://github.com/course-dasheng/fe-algorithm)
 https://github.com/course-dasheng/fe-algorithm
 
 开源软件许可证有多种类型,主要包括以下几种:

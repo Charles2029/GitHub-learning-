@@ -131,8 +131,8 @@ Typing ? on GitHub to find the keyboard shortcut.
 ## [.net| c#](https://dotnet.microsoft.com/en-us/apps/aspnet)
 
 
-## makrkown course
-https://github.com/Charles2029/skills-communicate-using-markdown
+## [makrkown course](https://github.com/Charles2029/skills-communicate-using-markdown)
+
     
 
 <img width="767" alt="image" src="https://github.com/Charles2029/GitHub-learning-/assets/111632432/68563f80-da24-4abc-bfc3-73d1eb80cbe8">
@@ -186,3 +186,5 @@ this is whole [link](https://docs.github.com/en/get-started/writing-on-github/ge
 
 [Contribution guidelines for this project](docs/CONTRIBUTING.md)
 [index.md](/index.md)
+
+<img width="811" alt="image" src="https://github.com/Charles2029/GitHub-learning-/assets/111632432/14016ae9-c282-49a4-bfa2-2912efc4fb2f">

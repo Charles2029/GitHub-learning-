@@ -7,3 +7,6 @@ hot to add a [link](https://docs.github.com/en/get-started/writing-on-github/get
 
 hot to update a link
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+<br>
+
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)

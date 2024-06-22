@@ -186,3 +186,6 @@ this is whole [link](https://docs.github.com/en/get-started/writing-on-github/ge
 [how to add a linke](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 <h2>this is  a link tutorial</h2>
 [linke](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+[index.md](/index.md)

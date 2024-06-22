@@ -255,4 +255,14 @@ You can ingnore \*some format in markdown~\* --back slash--
 
 this one[ explain the method](https://daringfireball.net/projects/markdown/syntax#backslash)
 
+<img width="825" alt="image" src="https://github.com/Charles2029/GitHub-learning-/assets/111632432/ae79f535-fd78-43d6-9277-b1baa90d7414">
+Cells can vary in width and do not need to be perfectly aligned within columns. There must be at least three hyphens in each column of the header row.
+
+//
+>[!NOTE]
+>Cells can vary in width and do not need to be perfectly aligned within columns. There must be at least three hyphens in each column of the
+header row.
+
+
+
  

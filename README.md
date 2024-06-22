@@ -208,6 +208,14 @@ this is whole [link](https://docs.github.com/en/get-started/writing-on-github/ge
 #1
 🕘
  👍
+ 🏁
  
  [Emoji-Cheat-Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md).
+
+ here is foot note[^1]
+ here is another footnote [^2]
+ >Notice
+>[^1]: is very important
+>[^2]: are also important
+
  

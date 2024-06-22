@@ -179,6 +179,8 @@ Notice you can use `R` and `...`to quote something
 <img width="795" alt="image" src="https://github.com/Charles2029/GitHub-learning-/assets/111632432/aff3ea3d-3fdc-434b-8cb9-520fb8440eab">
 <br>
 this is a qutoe 
->Notes:A supported color model cannot have any leading or trailing spaces within the backticks.
+Notes:A supported color model cannot have any leading or trailing spaces within the backticks.
 The visualization of the color is only supported in issues,[ pull](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)  [backticks](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 this is whole [link](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+<br>
+[how to add a linke](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)

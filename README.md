@@ -51,11 +51,17 @@ a *pull request*  may introduce changes to code that conflict with the existing 
 **Share** your interests and skills.
 _Showcase_ your projects and contributions.
 ~~Express~~ your identity and show the GitHub community who you are.
-前段算法课：
-[greatfrontend](https://www.greatfrontend.com/)
-[力扣](https://leetcode.cn/)
-[leetcode](https://leetcode.com/)
-[the algorithm of frontend](https://github.com/course-dasheng/fe-algorithm)
+前段算法课：<br>
+<details>
+1:[greatfrontend](https://www.greatfrontend.com/)<br>
+
+2:[力扣](https://leetcode.cn/)
+
+3:[leetcode](https://leetcode.com/)
+
+4:[the algorithm of frontend](https://github.com/course-dasheng/fe-algorithm)
+</details>
+
 
 开源软件许可证有多种类型,主要包括以下几种:
 

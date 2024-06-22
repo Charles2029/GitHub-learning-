@@ -186,15 +186,19 @@ Notice you can use `R` and `...`to quote something
 <img width="795" alt="image" src="https://github.com/Charles2029/GitHub-learning-/assets/111632432/aff3ea3d-3fdc-434b-8cb9-520fb8440eab">
 <br>
 This is a quote
----
->Notes:A supported color model cannot have any leading or trailing spaces within the backticks.
-The visualization of the color is only supported in issues,[pull](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) <br> 
+Notes:A supported color model cannot have any leading or trailing spaces within the backticks.
+The visualization of the color is only supported in issues,
+
+[Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+<br> 
+
 [backticks](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 this is whole [link](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 <br>
 [how to add a linke](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 <h2>this is  a link tutorial</h2>
-[linke](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+[links test](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 [Contribution guidelines for this project](docs/CONTRIBUTING.md)
 [index.md](/index.md)

@@ -44,3 +44,13 @@ Certified React Developer, Udemy, 2021
 JavaScript Mastery, Coursera, 2020
 Portfolio
 You can view my portfolio of front-end projects on my GitHub profile: github.com/charlessmith
+
+<img width="773" alt="image" src="https://github.com/Charles2029/GitHub-learning-/assets/111632432/494c8864-6d72-4447-8a7f-1d60cbfbad94">
+<img width="778" alt="image" src="https://github.com/Charles2029/GitHub-learning-/assets/111632432/a8ae1e81-6f9b-4c48-a892-464fc2f0d71f">
+<img width="761" alt="image" src="https://github.com/Charles2029/GitHub-learning-/assets/111632432/ef9feeb2-ff8b-432d-92c9-1748fb162c72">
+<img width="775" alt="image" src="https://github.com/Charles2029/GitHub-learning-/assets/111632432/8f100571-c279-4700-a1b3-d4dbe973a3bf">
+
+
+
+
+

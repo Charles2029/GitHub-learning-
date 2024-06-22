@@ -33,7 +33,7 @@ Push back your own changes to the same remote repository on GitHub.
 --*Pull*-- all the latest changes made by your collaborators from the remote repository on Github.
 Pull all the latest changes made by your collaborators from the remote repository on Github.
 
-![alt text](image-1.png)
+![alt text](image-1.png):sparkle:
 When you created a new branch in the previous step, GitHub brought you to the code page for your new readme-edits branch, which is a copy of main.
 
 // On Github, saved changes are called commits. Each commit has an associated commit message, which is a description 

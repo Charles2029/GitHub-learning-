@@ -180,4 +180,4 @@ Notice you can use `R` and `...`to quote something
 this is a qutoe 
 >Notes:
 A supported color model cannot have any leading or trailing spaces within the backticks.
-The visualization of the color is only supported in issues, pull requests, and [discussions.](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+The visualization of the color is only supported in issues,[ pull](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)  [backticks](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)

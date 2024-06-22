@@ -262,7 +262,21 @@ Cells can vary in width and do not need to be perfectly aligned within columns. 
 >[!NOTE]
 >Cells can vary in width and do not need to be perfectly aligned within columns. There must be at least three hyphens in each column of the
 header row.
+<details>
 
+<summary>Tips for collapsed sections</summary>
+
+### You can add a header
+
+You can add text within a collapsed section. 
+
+You can add an image or a code block, too.
+
+```ruby
+   puts "Hello World"
+```
+
+</details>
 
 
  

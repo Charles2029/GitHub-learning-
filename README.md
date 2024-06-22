@@ -163,9 +163,10 @@ A suppoted color model cannot have any leading or trailing spaces within the bac
 The visualization of the color is only supported in issues, pull requests, and discussions.
 [hello hk](https://www.discoverhongkong.com/eng/index.html?utm_campaign=HO_ALWAYSON&utm_source=GOOGLE_LH&utm_medium=CPC&utm_content=SEM-ALWAYSON_EN&utm_terms=hong%20kong%20tourism%20board&gad_source=1&gclid=CjwKCAjwydSzBhBOEiwAj0XN4MYiefLHxVxYTKQFQnVSzUsnwaVWZDExwXK5PUAEay9um_UNw1weZhoCufYQAvD_BwE)
 
-https://pages.github.com/ [Hello](https://pages.github.com/)
+ [GithubPages](https://pages.github.com/)
 
-Links
+## Links
+---
 You can create an inline link by wrapping link text in brackets [ ], and then wrapping the URL in parentheses ( ). You can also use the keyboard shortcut Command+K to create a link. When you have text selected, you can paste a URL from your clipboard to automatically create a link from the selection.
 
 You can also create a Markdown hyperlink by highlighting the text and using the keyboard shortcut Command+V. If you'd like to replace the text with the link, use the keyboard shortcut Command+Shift+V.

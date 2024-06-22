@@ -251,7 +251,7 @@ this is whole [link](https://docs.github.com/en/get-started/writing-on-github/ge
 >[!CAUTION]
 >There are many scamp in internet
 
-You can ingnore \*some format in markdown~* \ --back slash--
+You can ingnore \*some format in markdown~\* --back slash--
 
 this one[ explain the method](https://daringfireball.net/projects/markdown/syntax#backslash)
 

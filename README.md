@@ -202,5 +202,12 @@ this is whole [link](https://docs.github.com/en/get-started/writing-on-github/ge
 
 [Contribution guidelines for this project](docs/CONTRIBUTING.md)
 [index.md](/index.md)
+- [ ] \(Optional) Open a followup issue
 
 <img width="811" alt="image" src="https://github.com/Charles2029/GitHub-learning-/assets/111632432/14016ae9-c282-49a4-bfa2-2912efc4fb2f">
+#1
+🕘
+ 👍
+ 
+ [Emoji-Cheat-Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md).
+ 

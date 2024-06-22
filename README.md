@@ -12,14 +12,13 @@
     <img src="https://img.shields.io/badge/version-v1.0.0-yellow.svg" alt="version" />
     <img src="https://img.shields.io/badge/license-AGPL--3.0-green.svg" alt="license" />
 </p>
-![alt text](image.png)
-:sparkle:Show case and share 
+Check out this awesome image! ![My Image](my-image.jpg):sparkle:
 Track and manage
 let others review
 Collaborate
 
 ## [About Git](https://docs.github.com/en/get-started/using-git/about-git)
-https://docs.github.com/en/get-started/using-git/about-git
+
 Git and Github are different thing .
 Git will automatically start to track and manage your changes.
 // Git will automatically start to track and manage your changes.

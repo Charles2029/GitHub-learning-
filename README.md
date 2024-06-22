@@ -287,6 +287,7 @@ puts markdown.to_html
 ```javascript
 console.log("come to learn Github")
 ```
+
  
 >[!TIPS]
 >We use Linguist to perform language detection and to select third-party grammars for syntax highlighting. You can find out which keywords are valid in the languages YAML file.
@@ -294,3 +295,5 @@ console.log("come to learn Github")
 Creating diagrams
 You can also use code blocks to create diagrams in Markdown. GitHub supports Mermaid, GeoJSON, TopoJSON, and ASCII STL syntax. For more information, see "Creating diagrams."
 
+
+[Creating diagrams](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams)

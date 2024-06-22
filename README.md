@@ -12,8 +12,7 @@
     <img src="https://img.shields.io/badge/version-v1.0.0-yellow.svg" alt="version" />
     <img src="https://img.shields.io/badge/license-AGPL--3.0-green.svg" alt="license" />
 </p>
-Check out this awesome image! ![My Image](my-image.jpg):sparkle:
-Track and manage
+Check out this awesome image
 let others review
 Collaborate
 

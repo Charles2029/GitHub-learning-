@@ -388,6 +388,43 @@ how to display a map , in markdown
   "arcs": [[[4000, 0], [1999, 9999], [2000, -9999], [2000, 9999]],[[0, 0], [0, 9999], [2000, 0], [0, -9999], [-2000, 0]]]
 }
 ```
+## Creating STL 3D models
+You can use ASCII STL syntax directly in markdown to create interactive 3D models. To display a model, add ASCII STL syntax inside a fenced code block with the stl syntax identifier. For more information, see "Creating and highlighting code blocks."
+
+For example, you can create a simple 3D model:
+```stl
+solid cube_corner
+  facet normal 0.0 -1.0 0.0
+    outer loop
+      vertex 0.0 0.0 0.0
+      vertex 1.0 0.0 0.0
+      vertex 0.0 0.0 1.0
+    endloop
+  endfacet
+  facet normal 0.0 0.0 -1.0
+    outer loop
+      vertex 0.0 0.0 0.0
+      vertex 0.0 1.0 0.0
+      vertex 1.0 0.0 0.0
+    endloop
+  endfacet
+  facet normal -1.0 0.0 0.0
+    outer loop
+      vertex 0.0 0.0 0.0
+      vertex 0.0 0.0 1.0
+      vertex 0.0 1.0 0.0
+    endloop
+  endfacet
+  facet normal 0.577 0.577 0.577
+    outer loop
+      vertex 1.0 0.0 0.0
+      vertex 0.0 1.0 0.0
+      vertex 0.0 0.0 1.0
+    endloop
+  endfacet
+endsolid
+```
+
 
 
 
